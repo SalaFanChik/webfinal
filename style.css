@@ -1,0 +1,27 @@
+/* Other styles */
+
+.navbar-green {
+    background-color: #28a745;
+}
+
+.navbar-green .navbar-brand,
+.navbar-green .nav-link {
+    color: #fff;
+}
+
+.navbar-green .nav-link:hover {
+    color: #d4edda;
+}
+
+.navbar-nav.ml-auto:last-child {
+    margin-right: 20px; /* Add some spacing if needed */
+}
+
+
+.box {
+    width: 100px;
+    height: 100px;
+    position: absolute;
+    top: 50%;
+    left: 0;
+}
